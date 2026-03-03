@@ -28,7 +28,7 @@ Monitoring and operational stability
 
 Writing code that is maintainable long-term
 
-Example project for display in repository: tour-site
+Example project for display in repository: [tour-site](https://github.com/eaarma/tour-site)
 
 📫 Contact
 
