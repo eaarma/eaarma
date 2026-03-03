@@ -28,6 +28,8 @@ Monitoring and operational stability
 
 Writing code that is maintainable long-term
 
+Example project for display in repository: tour-site
+
 📫 Contact
 
 edward5445@gmail.com
